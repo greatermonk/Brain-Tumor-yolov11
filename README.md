@@ -54,5 +54,5 @@ Follow these steps to set up and run the application:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-repo-name/brain-tumor-detection.git
-   cd brain-tumor-detection
+   git clone https://github.com/greatermonk/Brain-Tumor-yolov11/tree/main
+   cd Brain-Tumor-yolov11
