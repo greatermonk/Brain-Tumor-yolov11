@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 4
+names: ['Glioma', 'Meningioma', 'No-Tumour', 'Pituitary']
+
+roboflow:
+  workspace: handsign-recognition
+  project: brain-tumour-detection-m60bx
+  version: 1
+  license: MIT
+  url: https://universe.roboflow.com/handsign-recognition/brain-tumour-detection-m60bx/dataset/1
